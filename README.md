@@ -1,5 +1,5 @@
 # Salata Store
-
+#(switch to master branch to view the project)
 ## Project Overview
 The "Salata Store" project is a front-end web page built using HTML, CSS, and a bit of JavaScript. This project was developed as part of my graduation project from NTI (National Telecommunication Institute). I was the sole developer for this project.
 
