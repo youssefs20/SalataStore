@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header{
+  min-height: 500px;
+  background-color: rgb(114, 211, 114);
+}
+nav{
+  background-color: rgb(114, 211, 114);
+}
+section:first-of-type{
+  min-height: 500px;
+}
+.sec2{
+  position: relative;
+}
+.imag1{
+  position: absolute;
+}
+.imag2{
+  position: absolute;
+  left: 200px;
+  bottom: 50px;
+  border: 7px solid white;
+
+}
+section:nth-of-type(2){
+  min-height: 500px;
+}
+.div1{
+  box-shadow: 10px black;
+}
+.middle{
+  min-height: 500px;
+  background-color: rgb(114, 211, 114);
+}
+.chef{
+  min-height:500px;
+  background: rgba(0, 0, 0, 0.603) url(../images/download\ \(3\).jfif) no-repeat center/cover fixed ;
+  background-blend-mode: darken;
+}
+
